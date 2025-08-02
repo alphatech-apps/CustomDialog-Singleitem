@@ -1,4 +1,4 @@
-# ColorPicker
+# CustomDialog-Singleitem
 ### LATEST-VERSION
 
 [![](https://jitpack.io/v/alphatech-apps/CustomDialog-Singleitem.svg)](https://jitpack.io/#alphatech-apps/CustomDialog-Singleitem)
